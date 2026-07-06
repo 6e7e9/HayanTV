@@ -8,3 +8,13 @@ https://live.channel8.com/Channel8-Kurdish/index.m3u8
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 #EXTINF:-1 CUID="5" tvg-name="Kurdistan24" tvg-logo="https://raw.githubusercontent.com/6e7e9/HayanTV/refs/heads/main/images/K24.png" group-title="KURDISH",Kurdistan24
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+#EXTINF:-1 CUID="6" tvg-name="Kurdsat News" tvg-logo="https://raw.githubusercontent.com/6e7e9/HayanTV/refs/heads/main/images/Kurdsat_news.png" group-title="KURDISH",Kurdsat News
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+#EXTINF:-1 CUID="7" tvg-name="Amozhgary" tvg-logo="https://raw.githubusercontent.com/6e7e9/HayanTV/refs/heads/main/images/Amozhgary.png" group-title="KURDISH",Amozhgary
+https://app-live.org/live/3268334b/index.m3u8
+#EXTINF:-1 CUID="8" tvg-name="Kirkuk" tvg-logo="https://raw.githubusercontent.com/6e7e9/HayanTV/refs/heads/main/images/Kirkuk.png" group-title="KURDISH",Kirkuk
+https://live.kirkuklive.live/hls/stream/index.m3u8
+#EXTINF:-1 CUID="9" tvg-name="Payam" tvg-logo="https://raw.githubusercontent.com/6e7e9/HayanTV/refs/heads/main/images/Payam.png." group-title="KURDISH",Payam
+https://media2.streambrothers.com:1936/8218/8218/chunklist_w1560695880.m3u8
+#EXTINF:-1 CUID="10" tvg-name="Khak" tvg-logo="https://raw.githubusercontent.com/6e7e9/HayanTV/refs/heads/main/images/Khak.png" group-title="KURDISH",Khak
+http://bblserver.ddns.net:1935/stream/khakhd/hawezhd.m3u8
