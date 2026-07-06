@@ -17,4 +17,12 @@ https://live.kirkuklive.live/hls/stream/index.m3u8
 #EXTINF:-1 CUID="9" tvg-name="Payam" tvg-logo="https://raw.githubusercontent.com/6e7e9/HayanTV/refs/heads/main/images/Payam.png." group-title="KURDISH",Payam
 https://media2.streambrothers.com:1936/8218/8218/chunklist_w1560695880.m3u8
 #EXTINF:-1 CUID="10" tvg-name="Khak" tvg-logo="https://raw.githubusercontent.com/6e7e9/HayanTV/refs/heads/main/images/Khak.png" group-title="KURDISH",Khak
-http://bblserver.ddns.net:1935/stream/khakhd/hawezhd.m3u8
+http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
+#EXTINF:-1 CUID="11" tvg-name="Halabja" tvg-logo="https://raw.githubusercontent.com/6e7e9/HayanTV/refs/heads/main/images/halabja.png" group-title="KURDISH",Halabja
+http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
+#EXTINF:-1 CUID="12" tvg-name="Gali Kurdistan" tvg-logo="https://raw.githubusercontent.com/6e7e9/HayanTV/refs/heads/main/images/Gali_kurdistan.png" group-title="KURDISH",Gali Kurdistan
+https://live.host247.net/gk/gksat/playlist.m3u8
+#EXTINF:-1 CUID="13" tvg-name="NRT" tvg-logo="https://raw.githubusercontent.com/6e7e9/HayanTV/refs/heads/main/images/NRT.png" group-title="KURDISH",NRT
+https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
+#EXTINF:-1 CUID="14" tvg-name="Afarin" tvg-logo="https://raw.githubusercontent.com/6e7e9/HayanTV/refs/heads/main/images/Afarin.png" group-title="KURDISH",Afarin
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
