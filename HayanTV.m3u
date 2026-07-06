@@ -32,3 +32,5 @@ https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 http://ygbfuwjy.gr2bwu.xyz/play/jat93363/jGmtpsAysWS/1257532.m3u8
 #EXTINF:-1 CUID="17" tvg-name="Derin" tvg-logo="https://raw.githubusercontent.com/6e7e9/HayanTV/refs/heads/main/images/Derin.png" group-title="KURDISH",Derin
 http://baskhd.ddns.net:40/live/Derin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 CUID="18" tvg-name="Duhok Sports" tvg-logo="https://raw.githubusercontent.com/6e7e9/HayanTV/refs/heads/main/images/Duhok_sports.png" group-title="SPORTS",Duhok Sports
+http://atlantistv.pro:8080/live/SelMayilmz/ag6t7bQag6t/802142.m3u8
