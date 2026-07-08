@@ -24,9 +24,9 @@ http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
 https://live.host247.net/gk/gksat/playlist.m3u8
 #EXTINF:-1 CUID="13" tvg-name="NRT" tvg-logo="https://raw.githubusercontent.com/6e7e9/HayanTV/refs/heads/main/images/NRT.png" group-title="KURDISH",NRT
 https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
-#EXTINF:-1 CUID="14" tvg-name="Afarin" tvg-logo="https://raw.githubusercontent.com/6e7e9/HayanTV/refs/heads/main/images/Afarin.png" group-title="KURDISH",Afarin
+#EXTINF:-1 CUID="14" tvg-name="Afarin" tvg-logo="https://raw.githubusercontent.com/6e7e9/HayanTV/refs/heads/main/images/Afarin.png" group-title="KIDS",Afarin
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 CUID="15" tvg-name="Baxchay Afarin" tvg-logo="https://raw.githubusercontent.com/6e7e9/HayanTV/refs/heads/main/images/Baxchay_afarin.png" group-title="KURDISH",Baxchay Afarin
+#EXTINF:-1 CUID="15" tvg-name="Baxchay Afarin" tvg-logo="https://raw.githubusercontent.com/6e7e9/HayanTV/refs/heads/main/images/Baxchay_afarin.png" group-title="KIDS",Baxchay Afarin
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 CUID="16" tvg-name="AVA Sports" tvg-logo="https://raw.githubusercontent.com/6e7e9/HayanTV/refs/heads/main/images/AVA_sports.png" group-title="SPORTS",AVA Sports
 http://ygbfuwjy.gr2bwu.xyz/play/jat93363/jGmtpsAysWS/1257532.m3u8
