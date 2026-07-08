@@ -38,3 +38,7 @@ http://atlantistv.pro:8080/live/SelMayilmz/ag6t7bQag6t/802142.m3u8
 http://max4kcdn.com:8080/live/5161699711/3840575058/119574.m3u8
 #EXTINF:-1 CUID="20" tvg-name="Al Jazeera doc" tvg-logo="https://raw.githubusercontent.com/6e7e9/HayanTV/refs/heads/main/images/Al_jazeera_doc.png" group-title="DOCUMENTARY",Al Jazeera doc
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 CUID="21" tvg-name="Asharq Discovery" tvg-logo="https://raw.githubusercontent.com/6e7e9/HayanTV/refs/heads/main/images/Asharq_discovery.png" group-title="DOCUMENTARY",Asharq Discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+EXTINF:-1 CUID="22" tvg-name="Asharq Documentary" tvg-logo="https://raw.githubusercontent.com/6e7e9/HayanTV/refs/heads/main/images/Asharq_documentary.png" group-title="DOCUMENTARY",Asharq Documentary
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
